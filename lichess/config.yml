@@ -1,0 +1,13 @@
+# Example config for lichess-bot
+# See https://github.com/careless25/lichess-bot for full details.
+engine:
+  dir: ../
+  name: python
+  command: python
+  args: ["main.py"]
+  uci: true
+  ponder: false
+
+uci_options: {}
+
+# Optional: your bot settings.

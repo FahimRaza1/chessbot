@@ -1,0 +1,1 @@
+"""Lichess integration for ChessBot."""
